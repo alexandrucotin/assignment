@@ -1,0 +1,10 @@
+.reset-posizione {
+  background: salmon;
+  border: 0;
+  border-radius: 15px;
+  padding: 0.5rem 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  z-index: 4;
+}
